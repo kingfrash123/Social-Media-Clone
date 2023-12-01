@@ -1,30 +1,19 @@
-# Project 6 - *BeReal Clone*
+# *BeReal Clone*
 
-Submitted by: **King Primo**
+By: **King Primo**
 
-**BeReal Clone** is an app that copies many of the features of the BeReal App
+**BeReal Clone** is an app that copies many of the features of the BeReal App and Instagram App
 
-Time spent: **3** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
+## The following functionality is implemented:
 
 - [x] User can launch camera to take photo instead of photo library
 - [x] User session persists when application is closed and relaunched
 - [x] Users are able to log out and return to sign in page
 - [x] Users are NOT able to see other photos until they upload their own	
- 
-The following **optional** features are implemented:
-
-- [ ] User receive notifcation when it is time to post
-- [ ] Users can make comments and view comments in posts	
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+
+Here's a walkthrough of implemented features:
 
 <div>
     <a href="https://www.loom.com/share/7ac56da408b04dd9a9f5dfeefcae376c">
@@ -34,9 +23,6 @@ The following **additional** features are implemented:
     </a>
   </div>
 
-## Notes
-
-Camera funtion cannot be demonstrated on simulation build however it is implemnted.
 
 ## License
 
